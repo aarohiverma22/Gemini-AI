@@ -1,0 +1,37 @@
+body{
+    background-color: darkslategray;
+    colour: white;
+    margin: 10px;
+}
+section{
+    padding: 10px;
+}
+.second{
+    height: 100px;
+    background-color: black;
+    color: white;
+    size: 800px;
+}
+#second h1 {
+    font-weight: bold; /* Makes the text bold */
+    font-size: 5em; /* Adjust the size as needed */
+}
+
+.input-container{
+    padding: 5px;
+    border-spacing: 5px;
+    color: white;
+}
+#text{
+    background-color: black;
+    border: 1px solid white;
+    height: 40px;
+    width: 500px;
+    text-align: center;
+    color: white;
+}
+button{
+    background-color: crimson;
+    height: 40px;
+    width:70px;
+}
